@@ -1,5 +1,5 @@
 interface Lesson {
-  id: number;
+  id: string;
   title: string;
   duration: string;
 }
